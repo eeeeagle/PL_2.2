@@ -1,4 +1,3 @@
-# Языки программирования - Лабораторная №2.2 - Вариант №7
 ![1](https://user-images.githubusercontent.com/90867530/159923300-2a142544-c36b-4958-a2a8-e2def03f0277.jpg)
 ![2](https://user-images.githubusercontent.com/90867530/159923305-eda57eca-3470-4528-8b10-5d2462a88199.jpg)
 ![3](https://user-images.githubusercontent.com/90867530/159923307-a083f74e-0d44-4039-bff7-192157e58fae.jpg)
